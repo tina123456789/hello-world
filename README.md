@@ -1,2 +1,3 @@
 # hello-world
 This is my first repository.
+This article explores the source code management and collaboration system called Git and provides guidance on how to get the most value from Git. Git can be used as a local source code management system, and can also be used for collaboration across people and devices with a single central hub (called the origin, or sometimes the "remote origin").[1] The term for a collection of files in Git is a "repository", and all Git operations are performed within a repository. Many people host their repositories at places such as GitHub, [2] Bitbucket, and Amazon Web Services CodeCommit.[3] It is also possible to have a purely local Git repository (with no remote origin) or to host the remote origin on your own server.
